@@ -1,0 +1,25 @@
+{
+  "name": "template-vue-nossr",
+  "version": "1.0.0",
+  "description": "Starting Vue configuration template without SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm-ant/template-vue-nossr.git"
+  },
+  "keywords": [
+    "vue",
+    "nossr",
+    "vuex",
+    "vue-router"
+  ],
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm-ant/template-vue-nossr/issues"
+  },
+  "homepage": "https://github.com/dm-ant/template-vue-nossr#readme"
+}
