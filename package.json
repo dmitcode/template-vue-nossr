@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dm-ant/template-vue-nossr/issues"
   },
-  "homepage": "https://github.com/dm-ant/template-vue-nossr#readme"
+  "homepage": "https://github.com/dm-ant/template-vue-nossr#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }

@@ -1,3 +1,4 @@
-# игнорировать папку ws
+# ignore folder ws
+node_modules/
 .idea/
 dist/
